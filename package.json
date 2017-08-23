@@ -1,0 +1,17 @@
+{
+  "name": "contactco",
+  "version": "1.0.0",
+  "description": "",
+  "preferGlobal": true,
+  "bin": "./contact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Liu",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "inquirer": "^3.2.2",
+    "mongoose": "^4.11.7"
+  }
+}
